@@ -26,6 +26,7 @@ This project is a web application built with Laravel as the backend and Vue.js a
 - cp .env.example .env
 - php artisan key:generate
 - php artisan migrate:fresh --seed
+- php artisan storage:link
 
 ## Running
 
